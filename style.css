@@ -1,3 +1,7 @@
+h2, .teamOrange {
+    font-weight: 700!important;
+}
+
 li {
     margin-bottom: 10px;
 }
@@ -6,3 +10,6 @@ th {
     padding-right: 8px;
 }
   
+.teamOrange {
+    color: rgb(255, 60, 0)
+}
